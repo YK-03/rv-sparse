@@ -8,7 +8,6 @@ Implementation of `sparse_multiply()` for the RV-Sparse LFX coding challenge.
 
 ```bash
 gcc -lm -O2 -o run challenge.c
-gcc -lm -O2 -o run challenge.c
 ./run        # Linux / Mac
 run.exe      # Windows
 ```
